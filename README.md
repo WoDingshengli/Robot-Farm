@@ -7,6 +7,8 @@ This repository is built for anyone who is interested in robot simulation.
 
 ![image0](https://github.com/WoDingshengli/Robot-Farm/blob/master/Farmpicture.png)
 
+关于进展请见MyProjectProgress.md
+
 ## Task and Mark distribution:
 An increasing number of would-be farmers are deciding to opt for life in cities. This is leaving a shortage of appropriately trained farmers to support the agriculture industry. To deal with this problem farmers are looking to robotics to undertake tasks such as crop monitoring and harvesting. 
 You need to develop a robot able to remain within the boundaries of the farm while being able to locate, identify and respond to types of specified hazards that might occur on the farm. When identified, the first type of hazard must be reported back to the farmer so that workers can be sent out to resolve the problem. The second type of hazard, once detected, needs to be collected by the robot autonomously and taken back to a central location for further processing. Other specifications and restrictions required for this task can be found on the following pages.
