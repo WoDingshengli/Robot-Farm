@@ -5,9 +5,9 @@ This repository is built for anyone who is interested in robot simulation.
 # 机器人农场
  目标是让机器人找到红色物体并报告它们的位置，识别蓝色物体并将它们收集到绿色区域。
 
-![image0](https://github.com/WoDingshengli/Robot-Farm/blob/master/Farmpicture.png)
+![image](https://github.com/WoDingshengli/Robot-Farm/blob/master/Farmpicture.png)
 
-关于进展请见MyProjectProgress.md
+关于进展请见MyWorkProgress.md
 
 ## Task and Mark distribution:
 An increasing number of would-be farmers are deciding to opt for life in cities. This is leaving a shortage of appropriately trained farmers to support the agriculture industry. To deal with this problem farmers are looking to robotics to undertake tasks such as crop monitoring and harvesting. 
@@ -24,7 +24,7 @@ There will be a grid representing paddocks on the farm where the objects will be
 Each paddock will be represented by a white square. There will be a distance adjacent  between the paddocks and with three of the farm boundaries (except the right hand boundary);
 The drop-off zone is signified by a green square.
 
-![image1](https://github.com/WoDingshengli/Robot-Farm/blob/master/Farm.png)
+![image](https://github.com/WoDingshengli/Robot-Farm/blob/master/Farm.png)
 
 ## Proof-of-concept Competition
 The robot must start in the drop-off zone and the entirety of the robot must be in this zone;
